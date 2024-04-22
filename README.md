@@ -3,7 +3,7 @@
 | Attribute         | Details                                                |
 | ----------------- | ------------------------------------------------------ |
 | **Ethnicity**     | Han                                                    |
-| **Phone**         | 13873188531 ☎️                                          |
+| **Phone**         | 138******31 ☎️                                          |
 | **Email**         | yanlaiforever@163.com 📧                                |
 | **Date of Birth** | November 2003 🎂                                        |
 | **Hometown**      | Changsha City, Hunan Province, China 🏞️                 |
