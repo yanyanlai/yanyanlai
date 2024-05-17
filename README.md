@@ -7,7 +7,7 @@
 | **Email**         | yanlaiforever@163.com 📧                                |
 | **Date of Birth** | November 2003 🎂                                        |
 | **Hometown**      | Changsha City, Hunan Province, China 🏞️                 |
-| **GitHub**        | http://yanyanlai.top/ 🌐 |
+| **website**        | http://yanyanlai.top/ 🌐 |
 
 ## Education 📚
 
