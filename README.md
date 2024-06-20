@@ -89,13 +89,13 @@
 
 <tr><td align="center" width="55%">
     
-[![cyloveyou's github stats](https://github-readme-stats.vercel.app/api?username=yanyanlai&count_private=true&show_icons=true&theme=white)](https://github.com/yanyanlai/github-readme-stats)
+[![cyloveyou's github stats](https://github-readme-stats.vercel.app/api?username=yanyanlai&count_private=true&show_icons=true&theme=white)](https://github.com/anuraghazra/github-readme-stats)
 
 </td>
 
 <td align="top" width="45%">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanyanlai&layout=compact&theme=white)](https://github.com/yanyanlai/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanyanlai&layout=compact&theme=white)](https://github.com/anuraghazra/github-readme-stats)
 
 </td>
 </table>
