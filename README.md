@@ -84,6 +84,20 @@
 - **Diverse Talents and Interests**: Guitar and debate enthusiast. Won the Chang'an University Campus Debate Championship in 2023.
 - **Interdisciplinary Skills**: Strong foundation in computer science with 3 pending software copyrights. Actively learning surveying knowledge to become a "Computer + Surveying" hybrid. Possesses innovative thinking and the ability to combine theory with practice.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yanyanlai)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanyanlai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## Github Statistics 📊
+<table >
+
+<tr><td align="center" width="55%">
+    
+[![cyloveyou's github stats](https://github-readme-stats.vercel.app/api?username=yanyanlai&count_private=true&show_icons=true&theme=white)](https://github.com/yanyanlai/github-readme-stats)
+
+</td>
+
+<td align="top" width="45%">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanyanlai&layout=compact&theme=white)](https://github.com/yanyanlai/github-readme-stats)
+
+</td>
+</table>
 
 Feel free to reach out to me through the provided contact details for collaboration or discussion. 📩
